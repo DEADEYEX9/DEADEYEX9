@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DEADEYEX9 from cairo.egypt
-- 👀 I’m interested in webpage devolping
+- 👀 I’m interested in webpage deveolpment
 - 🌱 I’m currently learning php,pyhton.c++
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me on faceboook= omar sobhy 
